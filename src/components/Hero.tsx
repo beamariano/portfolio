@@ -7,7 +7,7 @@ export const Hero = ({ title }: { title: string }) => (
 		height="100vh"
 		bgGradient="linear(to-l, heroGradientStart, heroGradientEnd)"
 		bgClip="text"
-		marginTop='-200px'
+		marginTop='-150px'
 	>
 		<Box marginLeft='120px' fontSize="6vw" dangerouslySetInnerHTML={{
 			__html: title
