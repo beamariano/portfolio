@@ -17,7 +17,7 @@ export const Hero = ({ title }: { title: string }) => (
 			</Text>
 			<Heading><strong><br /> Website Under Development</strong>
 			</Heading></Box>
-		<Image src='/images/fruit.jpeg' />
+		<Image src='/images/fruit.png' />
 	</Flex>
 )
 
